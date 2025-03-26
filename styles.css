@@ -11,6 +11,8 @@ body {
 
 #title {
   text-align: center;
+  font-size: 26px;
+  margin-top: 2px;
 }
 #container {
     background: #ebebeb;

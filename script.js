@@ -2,7 +2,7 @@ const url = 'https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData
 const container = document.getElementById('container')
 const tooltip = document.getElementById('tooltip')
 const w = 1200;
-const h = 750;
+const h = 650;
 
 const padding = 30;
 
